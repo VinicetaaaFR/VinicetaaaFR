@@ -13,3 +13,6 @@ Eu me chamo é Vinícius Franco
 
 
 ![](https://media1.tenor.com/m/i_Hd_QrEw4IAAAAC/goodbye-bye.gif)
+
+
+
