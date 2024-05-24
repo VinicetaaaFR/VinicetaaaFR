@@ -2,7 +2,7 @@
 
 EU me chamo é Vinícius Franco
 
-° Estou estudando na ![https://cursos.alura.com.br/](link)
+Estou estudando na ![https://cursos.alura.com.br/](link)
 ° Estou me desenvolvendo na linguagem JavaScript
 ° Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
